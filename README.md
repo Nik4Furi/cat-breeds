@@ -6,11 +6,10 @@ Have three types of APIs here, Basically two are used cat-breeds data, and one f
 
 ## Indexing the contents
 ####   <p><a href="#badges" >Badges</a></p>
-####   <p><a href="#demo" >Demo</a></p>
 ####   <p><a href="#stack" >Tech Stack</a></p>
 ####   <p><a href="#runLocally" >Run Locally</a></p>
-####   <p><a href="#apisRef" >Routers References</a></p>
-####   <p><a href="#features" >Features</a></p>
+####   <p><a href="#apisRef" >APIs References</a></p>
+####   <p><a href="#feature" >Features</a></p>
 
 ## <h2 id="badges" >Badges </h2>
 
@@ -20,17 +19,6 @@ Have three types of APIs here, Basically two are used cat-breeds data, and one f
 ![GitHub top language](https://img.shields.io/github/languages/top/Nik4Furi/cat-breeds)   ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Nik4Furi/cat-breeds?style=flat-square) ![GitHub repo file count](https://img.shields.io/github/directory-file-count/Nik4Furi/cat-breeds) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Nik4Furi/cat-breeds)   ![GitHub last commit](https://img.shields.io/github/last-commit/Nik4Furi/cat-breeds)
 
-
-<a href="#cat-breeds">Go Home </a>
-
-
-
-## <h2 id="demo" >Demo </h2>
-
-<p>
-    <img src="" alt="Home" width="300" />
-    <img src="" alt="Admin" width="300" />
-</p>
 
 <a href="#cat-breeds">Go Home </a>
 
@@ -128,7 +116,7 @@ To get the informantion about the routers can checkout *routers/index.js* file
 
 
 
-## <h2 id="features">Features </h2>
+## <h2 id="feature">Features </h2>
 
 - Get all the cat-breeds data in .txt file
 - Can filter cat-breeds by their country
